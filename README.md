@@ -1,4 +1,4 @@
-# loan_repayment_prediction sing ML algorithms
+# loan_repayment_prediction using ML algorithms
 ## Dataset: 
 Link: [LendingClub.com](www.lendingclub.com/info/download-data.action)
 
